@@ -1,0 +1,8 @@
+2023-Nov-29-10:29:48,ETL jOB Started
+2023-Nov-29-10:29:48,Extract phase Started
+2023-Nov-29-10:29:48,Extract phase Ended
+2023-Nov-29-10:29:48,Transform phase Started
+2023-Nov-29-10:29:48,Transform phase ended
+2023-Nov-29-10:29:48,Load phase started
+2023-Nov-29-10:29:48,Load phase ended
+2023-Nov-29-10:29:48,ETL Job Ended
